@@ -5,7 +5,7 @@
 ##The tasks were: 
 
 - Create a database named <universe>
-- The database will have the tables: <galaxy>, <star>, <planet>, <moon>
+- The database will have the tables: `galaxy`, `star`, `planet`, `moon`
 - Each table must have a primary key
 - Each primary key should automatically increment
 - Each table should have a <name> column
