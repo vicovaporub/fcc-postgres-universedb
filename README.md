@@ -1,6 +1,6 @@
 # Celestial Bodies Database
 
-## This project is a .sql file that creates a fake Universe database for the Relational Database certification from [freeCodeCamp](https://www.freecodecamp.org).
+## This project uses PostgreSQL to create a fake Universe database for the Relational Database certification from [freeCodeCamp](https://www.freecodecamp.org).
 
 **The tasks were:**
 
