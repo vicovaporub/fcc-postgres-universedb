@@ -2,7 +2,7 @@
 
 ## This is the first required project for the Relational Database certification.
 
-###The tasks were: 
+##The tasks were: 
 
 - Create a database named <universe>
 - The database will have the tables: <galaxy>, <star>, <planet>, <moon>
